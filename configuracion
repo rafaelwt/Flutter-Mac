@@ -1,0 +1,7 @@
+Reconocer el emulador de iphone en visual code mac
+Make sure you have run
+`sudo xcode-select --switch /Applications/Xcode.app/Contents/Developer`
+`sudo xcodebuild -license`
+Then open the iOS simulator by typing `open -a Simulator`.
+Go to the flutter project directory or create a new one by using `flutter create myapp`. `cd`
+in to project directory and finally run the app by executing `flutter run`.
